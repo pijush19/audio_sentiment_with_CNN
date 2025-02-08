@@ -1,2 +1,2 @@
-# audio_sentiment_with_CNN
-A deep learning-powered web application that analyzes the sentiment of audio files using MFCC features and a CNN model. Users can upload audio files, and the app predicts whether the sentiment is positive, neutral, or negative.
+# 🎵 **Audio Sentiment Analysis Web App**  
+A **deep learning-powered web application** that analyzes the **sentiment of audio files** (Positive, Neutral, Negative) using **MFCC feature extraction and a CNN model**. Users can upload an audio file, and the model will predict its sentiment in real-time!  
